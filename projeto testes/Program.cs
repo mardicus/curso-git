@@ -2,8 +2,9 @@
 
 namespace projeto_testes {
 	class Program {
-		static void Main(stringssss[] args) {
+		static void Main(string[] args) {
 			Console.WriteLine("Hello World!");
+			Console.WriteLine("Good Morning!")
 		}
 	}
 }
